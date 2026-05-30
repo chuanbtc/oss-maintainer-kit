@@ -27,6 +27,14 @@
   ],
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuanbtc/oss-maintainer-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chuanbtc/oss-maintainer-kit/issues"
+  },
+  "homepage": "https://github.com/chuanbtc/oss-maintainer-kit#readme",
   "engines": {
     "node": ">=20"
   },

@@ -9,16 +9,17 @@ This file prepares honest, form-ready material for the Codex for Open Source app
 - ChatGPT account email: `[your ChatGPT email]`
 - GitHub username: `chuanbtc`
 - GitHub repository URL: `https://github.com/chuanbtc/oss-maintainer-kit`
+- Initial release: `https://github.com/chuanbtc/oss-maintainer-kit/releases/tag/v0.1.0`
 - Role: Main maintainer
 - OpenAI organization ID: `[your OpenAI organization ID]`
 
 ## Repository Eligibility Answer
 
-Use this after the repository is public and you have real activity metrics:
+Use this with the current public repository:
 
-> oss-maintainer-kit is an open source CLI for maintainers to draft issue triage, PR review checklists, release notes, and weekly project reports from local files or public GitHub URLs. It is new, so current adoption metrics should be updated after publication. The project targets recurring OSS maintenance work and is designed for contributor-friendly automation.
+> oss-maintainer-kit is a new public OSS CLI for maintainers to draft issue triage, PR review checklists, release notes, and weekly project reports from local files or public GitHub URLs. It has an initial v0.1.0 release, tests, CI, and contributor docs. Current adoption is early: 0 stars, 0 forks, and no npm download history yet.
 
-Character count: 399
+Character count: 331
 
 ## Interested Items
 
@@ -41,8 +42,8 @@ Character count: 292
 
 - [x] Push this repository to GitHub as public.
 - [ ] Replace all bracketed personal fields.
-- [ ] Confirm the GitHub profile is public.
-- [ ] Confirm the repository is public.
-- [ ] Add real metrics if available: stars, forks, npm downloads, users, issues, pull requests, releases.
+- [x] Confirm the GitHub profile is public.
+- [x] Confirm the repository is public.
+- [x] Add real metrics: 0 stars, 0 forks, initial v0.1.0 release, no npm download history yet.
 - [ ] Open the form: https://openai.com/ja-JP/form/codex-for-oss/
 - [ ] Submit only accurate information.
