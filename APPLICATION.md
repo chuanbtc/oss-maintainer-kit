@@ -7,8 +7,8 @@ This file prepares honest, form-ready material for the Codex for Open Source app
 - Last name: `[your last name]`
 - First name: `[your first name]`
 - ChatGPT account email: `[your ChatGPT email]`
-- GitHub username: `[your GitHub username]`
-- GitHub repository URL: `[public repository URL after pushing]`
+- GitHub username: `chuanbtc`
+- GitHub repository URL: `https://github.com/chuanbtc/oss-maintainer-kit`
 - Role: Main maintainer
 - OpenAI organization ID: `[your OpenAI organization ID]`
 
@@ -39,7 +39,7 @@ Character count: 292
 
 ## Submission Checklist
 
-- [ ] Push this repository to GitHub as public.
+- [x] Push this repository to GitHub as public.
 - [ ] Replace all bracketed personal fields.
 - [ ] Confirm the GitHub profile is public.
 - [ ] Confirm the repository is public.
